@@ -1,3 +1,0 @@
-streamlit
-google-generativeai
-elevenlabs==1.12.1
